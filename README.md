@@ -70,7 +70,7 @@ I'm a Student and Developer !! <br />
 
 <br /> 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanverified&theme=dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanverified&theme=dark&layout=compact)](https://github.com/tanverified/github-readme-stats)
+![Tanveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanverified&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanverified&theme=tokyonight&layout=compact)](https://github.com/tanverified/github-readme-stats)
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=tanverified)
