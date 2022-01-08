@@ -1,10 +1,3 @@
-Hi there, I'm Tanveer 👋
-
-I'm a Student and Developer !! <br /> 
-👀 I’m interested in Full stack application development <br /> 
-🌱 I’m currently learning NodeJS and Python?Django and everything else <br /> 
-🗫 I’m looking to collaborate on Full stack project <br /> 
-📅2022 Goals: Contribute more to Open Source projects <br /> 
 
 ## 🛠  Technologies and tools
 
