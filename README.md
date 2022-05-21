@@ -52,13 +52,6 @@
 [<img src="https://img.shields.io/badge/Blockchain-282C34?logo=bitcoin&logoColor=#47A248" alt="bit.js logo" title="Vue.js" height="25" />][learning_next_anchor]
 &nbsp;
 
-## 🔍  Where to find me
-[<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=#8a3ab9" alt="LinkedIn logo" title="Instagram" height="25" />](https://www.instagram.com/thisistanveer)
-&nbsp;
-[<img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=0077B5" alt="LinkedIn logo" title="Twitter" height="25" />](https://www.twitter.com/7anveer)
-&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](www.linkedin.com/in/tanveer-k)
-
 [tech_tools_anchor]: #welcome--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
