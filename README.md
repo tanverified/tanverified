@@ -4,7 +4,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1166701/screenshots/5640487/media/0ca868fc193488f36b5f969e94672ec7.gif" alt="imagetag" width="350" height="250" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanverified&label=Profile%20views&color=0e75b6&style=flat" alt="tanverified" /> </p>
 
-<p align="left"> <a href="https://twitter.com/7anveer" target="blank"><img src="https://img.shields.io/twitter/follow/7anveer?logo=twitter&style=for-the-badge" alt="7anveer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **React project**
 
