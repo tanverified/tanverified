@@ -1,4 +1,3 @@
-[![MasterHead](https://media.istockphoto.com/id/1167600197/vector/front-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=)](https://tanver.netlify.app/)
 <h1 align="center">Hi 👋, I'm Tanveer khan</h1>
 <h3 align="center">A passionate Frontend developer currently working on React</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1166701/screenshots/5640487/media/0ca868fc193488f36b5f969e94672ec7.gif" alt="imagetag" width="350" height="250" />
