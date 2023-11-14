@@ -58,8 +58,3 @@
   <img src="https://profile-counter.glitch.me/tanverified/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/tanverified/tanverified/output/snake.svg" alt="Snake animation" />
-
-###
