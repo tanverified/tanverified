@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Tanveer khan<br>A passionate Full Stack developer currently working on React</h2>
+<h2 align="left">Hi 👋, I'm Tanveer khan<br>A passionate Full Stack developer currently working on React, Node/Express, AWS </h2>
 
 ###
 
